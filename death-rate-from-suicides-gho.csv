@@ -1,4 +1,4 @@
-Entity,Code,Year,Age-standardized suicide rate - Sex: both sexes
+Entity,Code,Year,suicides
 Afghanistan,AFG,2000,7.71
 Afghanistan,AFG,2001,7.89
 Afghanistan,AFG,2002,7.85
@@ -19,26 +19,6 @@ Afghanistan,AFG,2016,6.01
 Afghanistan,AFG,2017,5.95
 Afghanistan,AFG,2018,5.91
 Afghanistan,AFG,2019,5.96
-Africa (WHO),,2000,15.6107
-Africa (WHO),,2001,15.2592
-Africa (WHO),,2002,15.0343
-Africa (WHO),,2003,14.8581
-Africa (WHO),,2004,14.609
-Africa (WHO),,2005,14.4522
-Africa (WHO),,2006,14.3229
-Africa (WHO),,2007,14.2351
-Africa (WHO),,2008,14.337
-Africa (WHO),,2009,14.2015
-Africa (WHO),,2010,13.8326
-Africa (WHO),,2011,13.3934
-Africa (WHO),,2012,13.0908
-Africa (WHO),,2013,12.803
-Africa (WHO),,2014,12.4193
-Africa (WHO),,2015,12.1451
-Africa (WHO),,2016,11.8857
-Africa (WHO),,2017,11.6618
-Africa (WHO),,2018,11.4275
-Africa (WHO),,2019,11.2471
 Albania,ALB,2000,5.23
 Albania,ALB,2001,4.74
 Albania,ALB,2002,4.82
@@ -79,26 +59,6 @@ Algeria,DZA,2016,2.61
 Algeria,DZA,2017,2.54
 Algeria,DZA,2018,2.58
 Algeria,DZA,2019,2.6
-Americas (WHO),,2000,7.73
-Americas (WHO),,2001,7.98
-Americas (WHO),,2002,8.02
-Americas (WHO),,2003,7.93
-Americas (WHO),,2004,7.9
-Americas (WHO),,2005,7.88
-Americas (WHO),,2006,7.87
-Americas (WHO),,2007,7.93
-Americas (WHO),,2008,8.09
-Americas (WHO),,2009,8.15
-Americas (WHO),,2010,8.13
-Americas (WHO),,2011,8.28
-Americas (WHO),,2012,8.26
-Americas (WHO),,2013,8.23
-Americas (WHO),,2014,8.41
-Americas (WHO),,2015,8.55
-Americas (WHO),,2016,8.72
-Americas (WHO),,2017,9.16
-Americas (WHO),,2018,8.97
-Americas (WHO),,2019,8.99
 Angola,AGO,2000,17.5554
 Angola,AGO,2001,17.4593
 Angola,AGO,2002,17.2385
