@@ -10,5 +10,6 @@ This is the Here is the **[plotting file](https://colab.research.google.com/driv
 
 This is the Here is the **[county code](https://colab.research.google.com/drive/1IHVhiMEdnrbOcFZioqvnAUJPHJ3rdf_U#scrollTo=EgmzqUapnnJl)**. 
 
-## Remaining Tasks:
-- Task
+## Remaining Tasks (ordered by priority):
+- Task 1
+- Time Series stuff
