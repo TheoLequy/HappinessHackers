@@ -19,4 +19,5 @@ Slides
 - PCA results
 - Lasso results
 - time series
-- 
+- yearly 
+- regional
