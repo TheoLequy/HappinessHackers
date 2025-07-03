@@ -1,5 +1,5 @@
 # HappinessHackers
-DS in Techno-Socio-Economic Systems at ETH
+DS in Techno-Socio-Economic Systems at ETH, Fall Semester 2024, completed and archived
 
 Data Sources:
 
